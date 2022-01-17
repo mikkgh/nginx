@@ -4,7 +4,7 @@
 ![imagen](https://github.com/mikkgh/nginx/blob/main/imagenes/version.png)
 
 ## b) Ficheros de configuración.
-Los sitios virtuales de nginx estan en /etc/nginx/sites-available/
+Los sitios virtuales de nginx están en /etc/nginx/sites-available/
 ![imagen](https://github.com/mikkgh/nginx/blob/main/imagenes/configuracion.png)
 
 ## c) Página web por defecto.
