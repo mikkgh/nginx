@@ -8,6 +8,9 @@ Los sitios virtuales de nginx estan en /etc/nginx/sites-available/
 ![imagen](https://github.com/mikkgh/nginx/blob/main/imagenes/configuracion.png)
 
 ## c) Página web por defecto.
+![imagen](https://github.com/mikkgh/nginx/blob/main/imagenes/web_defecto.png)
+
+![imagen](https://github.com/mikkgh/nginx/blob/main/imagenes/web_defecto1.png)
 
 Modifica la página web que lanza por defecto y personalízala.
 
