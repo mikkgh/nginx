@@ -13,6 +13,9 @@ Los sitios virtuales de nginx estan en /etc/nginx/sites-available/
 ![imagen](https://github.com/mikkgh/nginx/blob/main/imagenes/web_defecto1.png)
 
 Modifica la página web que lanza por defecto y personalízala.
+![imagen](https://github.com/mikkgh/nginx/blob/main/imagenes/web_mod.png)
+
+![imagen](https://github.com/mikkgh/nginx/blob/main/imagenes/web_mod1.png)
 
 ## d) Virtual Hosting.
 Queremos que nuestro servidor web ofrezca balanceo de carga desde https  a dos sitios web que tengan también https.
