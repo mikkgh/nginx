@@ -7,7 +7,7 @@
 •	En Nginx, el consumo de memoria es muy bajo para servir páginas estáticas. Pero, la naturaleza de Apache de crear nuevos procesos para cada petición aumenta el consumo de memoria.  Varios resultados de evaluación comparativa indica que, en comparación con Apache, Nginx es extremadamente rápido para servir páginas estáticas.
 
 •	En general, Nginx tiene menos componentes para agregar más características. Pero Apache tiene un montón de características y proporciona mucha más funcionalidad que Nginx. 
-•	Nginx no son compatibles con sistemas operativos como OpenVMS y IBMi. Pero Apache soporta mucho más amplia gama de sistemas operativos.
+•	Nginx no son compatibles con sistemas operativos como OpenVMS y IBM. Pero Apache soporta mucho más amplia gama de sistemas operativos.
 
 •	Nginx sólo viene con las características básicas que se requieren para un servidor web, es ligero en comparación a Apache.
 
