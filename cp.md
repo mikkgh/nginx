@@ -36,7 +36,7 @@ Redirigimos nuestro servidor nginx al puerto 8081 para darle el 443 al balancead
 
 ![imagen](https://github.com/mikkgh/nginx/blob/main/imagenes/web_8081.png)
 
-Añadimos la configuración del balanceador a la de nginx. Estará en la ip 192.168.1.58.
+Añadimos la configuración del balanceador a la de nginx que estará en la ip 192.168.1.58.
 Ponemos ip y puerto para dirigirse correctamente a cada server del balanceador.
 Configuramos el server del puerto 80 para que todas las peticiones http se redirijan a https.
 Configuramos el balanceador en el puerto 443 con su configuración para ssl.
