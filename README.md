@@ -4,9 +4,8 @@
 ## ÍNDICE
 1. [Introducción.](https://github.com/mikkgh/nginx/blob/main/introduccion.md)
 2. [Comparativa con Apache.](https://github.com/mikkgh/nginx/blob/main/vsapache.md)
-3. [Instalación.](https://github.com/mikkgh/nginx/blob/main/introduccion.md)
-4. [Casos prácticos.](https://github.com/mikkgh/nginx/blob/main/introduccion.md)
-5. [Introducción.](https://github.com/mikkgh/nginx/blob/main/introduccion.md)
+3. [Instalación.](https://github.com/mikkgh/nginx/blob/main/instalacion.md)
+4. [Casos prácticos.](https://github.com/mikkgh/nginx/blob/main/cp.md)
 
 ## Referencias.
 [wikipedia](https://es.wikipedia.org/wiki/Nginx)
