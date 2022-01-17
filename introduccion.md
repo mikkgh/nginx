@@ -13,16 +13,27 @@ De acuerdo con el estudio de Netcraft, Netcraft's Jul 2014 Web Server Survey, ng
 
 ## Características básicas del servidor web
 •	Servidor de archivos estáticos, índices y autoindexado.
-•	Proxy inverso con opciones de caché.
-•	Balanceo de carga.
-•	Tolerancia a fallos.
-•	Soporte de HTTP y HTTP2 sobre SSL.
-•	Soporte para FastCGI con opciones de caché.
-•	Servidores virtuales basados en nombre y/o en dirección IP.
-•	Streaming de archivos FLV y MP4.9
-•	Soporte para autenticación.
-•	Compatible con IPv6
-•	Soporte para protocolo SPDY
-•	Compresión gzip.
-•	Habilitado para soportar más de 10.000 conexiones simultáneas.
 
+•	Proxy inverso con opciones de caché.
+
+•	Balanceo de carga.
+
+•	Tolerancia a fallos.
+
+•	Soporte de HTTP y HTTP2 sobre SSL.
+
+•	Soporte para FastCGI con opciones de caché.
+
+•	Servidores virtuales basados en nombre y/o en dirección IP.
+
+•	Streaming de archivos FLV y MP4.9
+
+•	Soporte para autenticación.
+
+•	Compatible con IPv6
+
+•	Soporte para protocolo SPDY
+
+•	Compresión gzip.
+
+•	Habilitado para soportar más de 10.000 conexiones simultáneas.
